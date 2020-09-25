@@ -1432,8 +1432,10 @@ textarea.form-control {
   border-top-color: #FFFFFF; }
 
 .navbar-default {
-  background-color: #6CA851;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1); }
+  background-color: transparent;
+  position: fixed;
+  width: 100%;
+  z-index: 999; }
   .navbar-default .brand {
     color: white; }
   .navbar-default .navbar-nav > li > a:not(.btn) {
