@@ -1,4 +1,6 @@
-# [Paper Kit - Free Bootstrap UI Kit](http://demos.creative-tim.com/paper-kit)
+SmartVit - Landing Page
+
+<!-- # [Paper Kit - Free Bootstrap UI Kit](http://demos.creative-tim.com/paper-kit)
 
 ![Paper Kit](http://s3.amazonaws.com/creativetim_bucket/products/33/original/opt_pk_thumbnail.jpg "Paper Kit Free")
 
@@ -125,5 +127,5 @@ Dribbble: <https://dribbble.com/creativetim>
 Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>
-    
+     -->
     
